@@ -1,3 +1,3 @@
-workers python main.py kndrt7,vospeckt_,hayzzstream,frankey136,inilil,notmhk,kingshow_,alex1off,roldonski,porshenbgod,
+workers python main.py dmitry_lixxx,pokanoname,fruktozka,gensyxa,by_owl,guacamolemolly,ekatze007,quickhuntik,des0ut,pch3lk1n,cheatbanned,kndrt7,hayzzstream,frankey136,inilil,kingshow_,
 
 
